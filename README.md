@@ -17,7 +17,7 @@
 - 🔭 I’m working as a Machine Learning Engineer at Anghami<br>
 - 📚 I'm currently learning about Machine Learning on Graphs<br>
 - ⚡ In my free time I play video games and bass guitar<br>
-- 📄 Know about my experiences <a href='linkedin.com/in/jalal-elzein'>LinkedIn</a><br>
+- 📄 Know about my experiences <a href='https://linkedin.com/in/jalal-elzein'>LinkedIn</a><br>
 </p>
 
 ###
